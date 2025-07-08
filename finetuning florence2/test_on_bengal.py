@@ -66,8 +66,8 @@ def add_bboxes(label_path, image_id, annotation_id):
 
 def create_training_annotations(num_nbg, num_bg):
     type = "train"
-    directory = f'/home/shataxi.dubey/shataxi_work/vlm_on_planet/lucknow_train_test_split/{type}'
-    images_path = sorted(glob(f'/home/nupoor.assudani/cs299_main/florence2_finetuning/dynamic_lucknow_coco_train_test/{type}/*'))
+    directory = f'//{type}'
+    images_path = sorted(glob(f'//{type}/*'))
     labels_path = f'{directory}/labels'
     image_size = 320
     coco_dict = {}
@@ -131,7 +131,7 @@ def create_training_annotations(num_nbg, num_bg):
                                         "iscrowd": 0
                                         })
             annotation_id += 1
-    fp = open('/home/nupoor.assudani/cs299_main/florence2_finetuning/annotations_coco_json_train/_annotations.coco.json', 'w')
+    fp = open('/', 'w')
     json.dump(coco_dict, fp)
     fp.close()
 
