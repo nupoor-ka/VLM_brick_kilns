@@ -1,6 +1,6 @@
 # Bench-marking Vision Language Models on Detecting Brick Kilns in Satellite Imagery
 
-This project explores the use of **Florence-2 Vision-Language Models (VLMs)** to detect **brick kilns** in **low-resolution satellite imagery**, addressing a challenging geospatial vision task. The work was conducted under [Prof. Nipun Batra](https://nipunbatra.github.io/) at IIT Gandhinagar, in collaboration with Shataxi Dubey, Rishabh Mondal, and Devansh Lodha.
+This project explores the use of **Florence-2 Vision-Language Models (VLMs)** to detect **brick kilns** in **low-resolution satellite imagery**, addressing a challenging geospatial vision task.
 
 ---
 
@@ -87,7 +87,14 @@ We experimented with:
 ## Repository Structure
 
 ├── finetuning_florence2.py # Fine-tuning Florence-2 model with Maestro
+
 ├── florence2_on_swinir_sr.py # Florence-2 inference with SwinIR super-resolution
+
 ├── florence2_slicing.py # Tiled inference using custom slicing and SAHI
+
 ├── florence2_zero_shot.py # Zero-shot inference with prompt tuning
+
 └── README.md # Project documentation
+
+
+The work was conducted under [Prof. Nipun Batra](https://nipunbatra.github.io/) at IIT Gandhinagar, in collaboration with Shataxi Dubey, Rishabh Mondal, and Devansh Lodha.
