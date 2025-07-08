@@ -97,4 +97,4 @@ We experimented with:
 └── README.md # Project documentation
 
 
-The work was conducted under [Prof. Nipun Batra](https://nipunbatra.github.io/) at IIT Gandhinagar, in collaboration with Shataxi Dubey, Rishabh Mondal, and Devansh Lodha.
+The work was conducted under [Prof. Nipun Batra](https://nipunbatra.github.io/) at IIT Gandhinagar, under the guidance of Shataxi Dubey and Rishabh Mondal, in collaboration with Devansh Lodha.
