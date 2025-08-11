@@ -6,7 +6,7 @@ This project explores the use of **Florence-2 Vision-Language Models (VLMs)** to
 
 ## Overview
 
-Brick kilns are small, spatially clustered structures, often located in remote or rural areas. Their detection in satellite imagery is difficult due to:
+Brick kilns are small structures, often located in remote or rural areas. Their detection in satellite imagery is difficult due to:
 
 - Low image resolution
 - Sparse annotations
