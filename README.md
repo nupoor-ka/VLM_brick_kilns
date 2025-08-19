@@ -97,4 +97,4 @@ We experimented with:
 └── README.md # Project documentation
 
 
-The work was conducted under [Prof. Nipun Batra](https://nipunbatra.github.io/) at IIT Gandhinagar, under the guidance of Shataxi Dubey and Rishabh Mondal, in collaboration with Devansh Lodha.
+The work was conducted under [Prof. Nipun Batra](https://nipunbatra.github.io/) at IIT Gandhinagar, under the guidance of Shataxi Dubey and Rishabh Mondal, in collaboration with Devansh Lodha. The VLMs used here can be accessed at this [HuggingFace page](https://huggingface.co/collections/microsoft/florence-6669f44df0d87d9c3bfb76de) and the linked paper is available [here](https://arxiv.org/abs/2311.06242).
